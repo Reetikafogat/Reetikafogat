@@ -1,4 +1,5 @@
-![git intro pic](https://github.com/user-attachments/assets/e86dc226-88aa-441d-b550-3535ae66036a)
+<img width="2000" height="600" alt="Brown Wood Minimalist Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/2de963c3-189d-45b8-842e-b5df95916b0b" />
+
 
 ## Hi there, I'm Reetika Fogat 👋
 **Aspiring Data Scientist & Data Analyst | Python • Power BI • SQL**
