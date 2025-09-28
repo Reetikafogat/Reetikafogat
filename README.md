@@ -47,6 +47,13 @@ Business Case 3: Churn Rate ANalysis In Telecom Companies
              Gave Recommendations and trained ML model to make predictions on  churn customers ( ~85% accuracy).
 - Link: [Churn Analysis ](https://github.com/Reetikafogat/CHURN-ANALYSIS-IN-TELECOM-COMPANIES-)
 
+Machine Learning Project: Diabetes Prediction
+- Technologies: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+- Description: Developed a predictive model to classify diabetes risk using health metrics like BMI, Glucose, BloodPressure, and Insulin levels. 
+              Performed data preprocessing and exploratory data analysis on the PimaIndians dataset, trained multiple models (Logistic Regression, Decision Tree, Random Forest),
+              and optimized performance through hyperparameter tuning, achieving 80% accuracy.
+- Link: [Diabetes Prediction](https://github.com/Reetikafogat/diabetes_prediction-)
+
 Languages & Tools
 ---
 - ✅ Numpy &nbsp;&nbsp;           ✅ Pandas &nbsp;&nbsp;       ✅ Sql
