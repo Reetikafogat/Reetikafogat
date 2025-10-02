@@ -69,9 +69,13 @@ Let's Connect 🤝
 
 Badges 🏆
 ---
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/796174e3-09d9-4f61-b45f-fc24ef2e835f" /> <br>
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/b4432b12-d348-46bb-aeca-1b5a9b662941" /><br>
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/796174e3-09d9-4f61-b45f-fc24ef2e835f" /> 
+<img width="56" height="56" alt="Top_SQL_50" src="https://github.com/user-attachments/assets/6fd67a7a-bc09-4e13-a90f-5ed04f73cc55" /><br>
 <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/ab3fc0f6-4058-4aa2-ac7f-8c69038fc169" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/b4432b12-d348-46bb-aeca-1b5a9b662941" /><br>
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/a0c81ae9-baf9-4bc9-bf62-a021feb54542" />
+
+
 
 
 
